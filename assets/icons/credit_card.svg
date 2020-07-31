@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="237.33" height="134.108" viewBox="0 0 237.33 134.108">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.151" y1="-0.118" x2="0.649" y2="0.764" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa4c9b"/>
+      <stop offset="1" stop-color="#d3096c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.2" x2="0.5" y2="0.881" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.047" x2="0.5" y2="0.755" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="credit_card" transform="translate(-817.076 -151.106)">
+    <rect id="Rectangle_99" data-name="Rectangle 99" width="237.33" height="134.108" rx="11.962" transform="translate(817.076 151.106)" opacity="0.65" fill="url(#linear-gradient)"/>
+    <path id="Rectangle_100" data-name="Rectangle 100" d="M5.517,0H55.89a5.518,5.518,0,0,1,5.518,5.518V29.735a5.517,5.517,0,0,1-5.517,5.517H5.517A5.517,5.517,0,0,1,0,29.734V5.517A5.517,5.517,0,0,1,5.517,0Z" transform="translate(983.596 159.81)" opacity="0.65" fill="url(#linear-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+    <path id="Path_382" data-name="Path 382" d="M909.335,185.885l-83.563,95.44q-.72.823-1.4,1.663h49.78l46.523-53.135c17.005-19.422,48.657-13.152,56.974,11.285l14.245,41.85H1031.5l-26.607-78.175C990.943,163.826,937.855,153.31,909.335,185.885Z" opacity="0.33" fill="url(#linear-gradient-3)" style="mix-blend-mode: screen;isolation: isolate"/>
+  </g>
+</svg>

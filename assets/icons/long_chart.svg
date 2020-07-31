@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.412" height="21.012" viewBox="0 0 23.412 21.012">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.533" x2="0.5" y2="0.991" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#34393e"/>
+      <stop offset="1" stop-color="#17191b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="-0.244" x2="0.5" y2="0.993" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="0.133" x2="0.5" y2="0.995" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="-0.13" x2="0.5" y2="0.994" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="-0.985" x2="0.5" y2="0.989" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="long_chart" transform="translate(-840.047 -341.189)">
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="2.401" height="11.875" transform="translate(840.047 350.325)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="2.401" height="14.633" transform="translate(844.249 347.567)" fill="url(#linear-gradient-2)"/>
+    <rect id="Rectangle_91" data-name="Rectangle 91" width="2.401" height="21.012" transform="translate(848.451 341.189)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_92" data-name="Rectangle 92" width="2.401" height="16.107" transform="translate(852.653 346.093)" fill="url(#linear-gradient-4)"/>
+    <rect id="Rectangle_93" data-name="Rectangle 93" width="2.401" height="21.012" transform="translate(856.855 341.189)" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_94" data-name="Rectangle 94" width="2.4" height="9.174" transform="translate(861.059 353.027)" fill="url(#linear-gradient-6)"/>
+  </g>
+</svg>

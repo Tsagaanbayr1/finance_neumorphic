@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.066" height="14.322" viewBox="0 0 14.066 14.322">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.517" y1="-4.391" x2="0.497" y2="1.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fa4c9b"/>
+      <stop offset="1" stop-color="#d3096c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.506" y1="0.106" x2="0.489" y2="1.305" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="search_button" transform="translate(-314.445 -171.145)">
+    <g id="Group_30" data-name="Group 30">
+      <rect id="Rectangle_46" data-name="Rectangle 46" width="8.18" height="1.997" transform="translate(314.445 184.055) rotate(-45)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_31" data-name="Group 31">
+      <path id="Path_61" data-name="Path 61" d="M323.607,180.954a4.9,4.9,0,1,1,4.9-4.9A4.911,4.911,0,0,1,323.607,180.954Zm0-7.869a2.965,2.965,0,1,0,2.964,2.964A2.967,2.967,0,0,0,323.607,173.085Z" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
