@@ -1,9 +1,6 @@
-import 'package:finance_neumorphic/constants/colors.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
-import 'screen/home/components/user_name_pic.dart';
-import 'screen/home/home_screen.dart';
+import './screens/home_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -16,9 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
-      theme: ThemeData(
-          // visualDensity: VisualDensity.adaptivePlatformDensity,
-          ),
+      theme: ThemeData(),
       home: HomeScreen(),
     );
   }
